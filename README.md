@@ -15,7 +15,7 @@ The implementation code can be found [here](https://drive.google.com/drive/folde
 
 # Content
 
-Programming implementation of the Monte Carlo Path Tracing algorithm. The detail requirements of this task are given [here](./MonteCarloPathTracing/scenes/README.md).
+Programming implementation of the Monte Carlo Path Tracing algorithm. The detail requirements of this task are given [here](./scenes/README.md).
 
 **Input:** Model files in **obj** format and material files in **mtl** format, with **lua** as the configuration file, setting the radiance of light sources and various attributes of the camera, etc.
 
